@@ -12,13 +12,13 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="70">
       <a href="https://www.linkedin.com/in/peterbaccaro">
         <img src="./img/linkedin-original.png" width="48" height="48" alt="LinkedIn" />
       </a>
       <br>LinkedIn
     </td>
-    <td align="center" width="96">
+    <td align="center" width="70">
       <a href="https://medium.com/@pbacc.uk">
         <img src="./img/medium-original.png" width="48" height="48" alt="Python" />
       </a>
