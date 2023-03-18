@@ -1,4 +1,6 @@
-### Hi, I'm Peter 👋
+<h1 align="left" id="peterbaccaro-title">Hi, I'm Peter Baccaro :wave:</h1>
+<h3 align="left">Senior Consultant | Tech Lead | Delivery Architect | Azure | DevOps | AWS | Cloud Native | Integration</h3>
+
 
 <p align="left">
   <a href="https://github.com/peterbaccaro/peterbaccaro">
