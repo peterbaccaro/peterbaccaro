@@ -26,6 +26,10 @@
   </tr>
 </table>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h2 align="left">Technologies I Use</h2>
 
 <table>
