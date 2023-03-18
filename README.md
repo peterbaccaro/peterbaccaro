@@ -84,12 +84,6 @@
         </a>
         <br>GitHub
     </td>
-    <td align="center" width="96">
-      <a href="#peterbaccaro-tech">
-        <img src="./img/npp.jpg" width="48" height="48" alt="Notepad++" />
-      </a>
-      <br>Notepad++
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -146,12 +140,6 @@
       </a>
       <br>MS Teams
     </td>
-    <td align="center" width="96">
-      <a href="#peterbaccaro-tech">
-        <img src="./img/postman.png" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -201,12 +189,6 @@
         <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#peterbaccaro-tech">
-        <img src="./img/oracle.png" width="48" height="48" alt="Oracle" />
-      </a>
-      <br>Oracle
     </td>
     <td align="center" width="96">
       <a href="#peterbaccaro-tech">
