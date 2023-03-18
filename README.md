@@ -84,18 +84,6 @@
         </a>
         <br>GitHub
     </td>
-    <td align="center" width="96">
-      <a href="#peterbaccaro-tech">
-        <img src="./img/jenkins.svg" width="48" height="48" alt="Jenkins" />
-      </a>
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-      <a href="#peterbaccaro-tech">
-        <img src="./img/puml.png" width="48" height="48" alt="Plant UML" />
-      </a>
-      <br>PUML
-    </td>
   </tr>
 </table>
 
