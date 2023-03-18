@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Peter 👋
 
 <p align="left">
   <a href="https://github.com/peterbaccaro/peterbaccaro">
