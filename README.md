@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-### Blogs posts
+<h2 align="left">Blogs Posts</h2
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
