@@ -26,16 +26,10 @@
   </tr>
 </table>
 
-<h2 align="left">Programming Languages and Tools</h2>
+<h2 align="left">Technologies I Use</h2>
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#peterbaccaro-tech">
-        <img src="./img/csharp.svg" width="48" height="48" alt="C# (Core)" />
-      </a>
-      <br>C# (Core)
-    </td>
     <td align="center" width="96">
       <a href="#peterbaccaro-tech">
         <img src="./img/python.svg" width="48" height="48" alt="Python" />
@@ -47,6 +41,12 @@
         <img src="./img/golang.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech">
+        <img src="./img/csharp.svg" width="48" height="48" alt="C# (Core)" />
+      </a>
+      <br>C# (Core)
     </td>
     <td align="center" width="96">
       <a href="#peterbaccaro-tech">
@@ -84,19 +84,14 @@
         </a>
         <br>GitHub
     </td>
-  </tr>
-</table>
-
-<h2 align="left">Frameworks and Libraries</h2>
-
-<table>
-  <tr>
     <td align="center" width="96">
       <a href="#peterbaccaro-tech">
-        <img src="./img/dotnet-core.png" width="48" height="48" alt=".NET Core" />
+        <img src="./img/npp.jpg" width="48" height="48" alt="Notepad++" />
       </a>
-      <br>.NET Core
+      <br>Notepad++
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#peterbaccaro-tech">
         <img src="./img/pandas.png" width="48" height="48" alt="Pandas" />
@@ -109,12 +104,55 @@
       </a>
       <br>Numpy
     </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech">
+        <img src="./img/dotnet-core.png" width="48" height="48" alt=".NET Core" />
+      </a>
+      <br>.NET Core
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech">
+        <img src="./img/puml.png" width="48" height="48" alt="Plant UML" />
+      </a>
+      <br>PUML
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech">
+        <img src="./img/diagrams-net.png" width="48" height="48" alt="diagrams.net" />
+      </a>
+      <br>diagrams.net
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech">
+        <img src="./img/jira.png" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech">
+        <img src="./img/confluence.png" width="48" height="48" alt="Confluence" />
+      </a>
+      <br>Confluence
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech">
+        <img src="./img/slack.png" width="48" height="48" alt="Slack" />
+      </a>
+      <br>Slack
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech">
+        <img src="./img/ms-teams.png" width="48" height="48" alt="MS Teams" />
+      </a>
+      <br>MS Teams
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech">
+        <img src="./img/postman.png" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
   </tr>
-</table>
-
-<h2 align="left">Data Integration and Streaming</h2>
-
-<table>
   <tr>
     <td align="center" width="96">
       <a href="#peterbaccaro-tech">
@@ -127,6 +165,12 @@
           <img src="./img/data-factory.svg" width="48" height="48" alt="Azue Data Factory" />
         </a>
         <br>ADF
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech">
+        <img src="./img/azure-functions.png" width="48" height="48" alt="Azue Data Factory" />
+      </a>
+      <br>Azure Funcs
     </td>
     <td align="center"  width="96">
       <a href="#peterbaccaro-tech">
@@ -146,13 +190,6 @@
       </a>
       <br>NATS
     </td>
-  </tr>
-</table>
-
-<h2 align="left">Databases</h2>
-
-<table>
-  <tr>
     <td align="center" width="96">
         <a href="#peterbaccaro-tech" >
           <img src="./img/azure-sql.png" width="48" height="48" alt="Azure SQL" />
@@ -178,23 +215,19 @@
       <br>MS SQL
     </td>
   </tr>
-</table>
-
-<h2 align="left">Cloud Computing, Infrastructure and Containerization</h2>
-
-<table>
-  <td align="center" width="96">
-    <a href="#peterbaccaro-tech">
-      <img src="./img/azure.svg" width="48" height="48" alt="Azure" />
-    </a>
-    <br>Azure
-  </td>
-  <td align="center" width="96">
+  <tr>
+    <td align="center" width="96">
       <a href="#peterbaccaro-tech">
-        <img src="./img/aws.png" width="48" height="48" alt="AWS" />
+        <img src="./img/azure.svg" width="48" height="48" alt="Azure" />
       </a>
-      <br>AWS
-  </td>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+        <a href="#peterbaccaro-tech">
+          <img src="./img/aws.png" width="48" height="48" alt="AWS" />
+        </a>
+        <br>AWS
+    </td>
     <td align="center" width="96"> 
       <a href="#peterbaccaro-tech" >
         <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
@@ -203,13 +236,31 @@
     </td>
     <td align="center" width="96">
       <a href="#peterbaccaro-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a href="#peterbaccaro-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/flux.png" width="48" height="48" alt="Flux" />
+      </a>
+      <br>Flux
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech" >
+        <img src="./img/linux.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech" >
+        <img src="./img/windows.png" width="48" height="48" alt="Windows" />
+      </a>
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+      <a href="#peterbaccaro-tech" >
+        <img src="./img/grafana.png" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
     </td>
@@ -221,4 +272,3 @@
     </td>
   </tr>
 </table>
-
