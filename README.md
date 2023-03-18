@@ -18,7 +18,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://medium.com/@pbacc.uk">
-        <img src="./img/medium-original-2.png" width="48" height="48" alt="Python" />
+        <img src="./img/medium-original.png" width="48" height="48" alt="Python" />
       </a>
       <br>Medium
     </td>
