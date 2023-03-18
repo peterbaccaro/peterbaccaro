@@ -28,6 +28,7 @@
 
 <h2 align="left">Blogs Posts</h2
 <!-- BLOG-POST-LIST:START -->
+- [Why is idempotence so important?](https://medium.com/@pbacc.uk/why-is-idempotence-so-important-95e34b0f4cca?source=rss-137f73eea47f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Technologies I Use</h2>
