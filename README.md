@@ -28,6 +28,7 @@
 
 ## Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [How reliable is your system?](https://medium.com/@pbacc.uk/how-reliable-is-your-system-e4d256dc8989?source=rss-137f73eea47f------2)
 - [Why is idempotence so important?](https://medium.com/@pbacc.uk/why-is-idempotence-so-important-95e34b0f4cca?source=rss-137f73eea47f------2)
 <!-- BLOG-POST-LIST:END -->
 
