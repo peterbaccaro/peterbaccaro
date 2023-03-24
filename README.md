@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.linkedipeterbaccaron.com/in/peterbaccaro">
+      <a href="https://www.linkedin.com/in/peterbaccaro/">
         <img src="./images/linkedin.png" width="48" height="48" alt="LinkedIn" />
       </a>
       <br>LinkedIn
