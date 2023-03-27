@@ -1,5 +1,5 @@
 <h1 align="center" id="peterbaccaro-title">Hi :wave:, I'm Peter Baccaro</h1>
-<h3 align="center">Tech Lead/Delivery Architect</h3>
+<h3 align="center">Tech Lead / Delivery Architect</h3>
 
 <p align="left">
   <a href="https://github.com/peterbaccaro/peterbaccaro">
