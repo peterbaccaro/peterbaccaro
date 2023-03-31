@@ -32,6 +32,7 @@
 - [The Benefits of Evolutionary Design](https://medium.com/@pbacc.uk/the-benefits-of-evolutionary-design-fc91a55fa3e7?source=rss-137f73eea47f------2)
 - [Are you over-engineering your code?](https://medium.com/@pbacc.uk/are-you-over-engineering-your-code-dc32dfa2031c?source=rss-137f73eea47f------2)
 - [How reliable is your system?](https://medium.com/@pbacc.uk/how-reliable-is-your-system-e4d256dc8989?source=rss-137f73eea47f------2)
+- [Why is idempotence so important?](https://medium.com/@pbacc.uk/why-is-idempotence-so-important-95e34b0f4cca?source=rss-137f73eea47f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Technologies I Use</h2>
