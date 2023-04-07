@@ -28,6 +28,7 @@
 
 ## Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Time-Series: An Exploration of the Benefits, Limitations and Best Practices](https://medium.com/@pbacc.uk/mongodb-time-series-an-exploration-of-the-benefits-limitations-and-best-practices-d3bbd391eba2?source=rss-137f73eea47f------2)
 - [10 Principles of Software Design](https://medium.com/@pbacc.uk/10-principles-of-software-design-68c98e9f3bcd?source=rss-137f73eea47f------2)
 - [The Benefits of Evolutionary Design](https://medium.com/@pbacc.uk/the-benefits-of-evolutionary-design-fc91a55fa3e7?source=rss-137f73eea47f------2)
 - [Are you over-engineering your code?](https://medium.com/@pbacc.uk/are-you-over-engineering-your-code-dc32dfa2031c?source=rss-137f73eea47f------2)
