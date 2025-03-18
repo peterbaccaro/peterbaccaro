@@ -160,7 +160,7 @@
     </td>
     <td align="center" width="96">
         <a href="#peterbaccaro-tech">
-          <img src="./images/data-factory.svg" width="48" height="48" alt="Azue Data Factory" />
+          <img src="./images/azure-data-factory.svg" width="48" height="48" alt="Azue Data Factory" />
         </a>
         <br>ADF
     </td>
